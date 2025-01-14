@@ -1,4 +1,4 @@
-## Police Incident Geocoding and Visualization: An ETL Project
+## 👮‍♂️ Police Incident Geocoding and Visualization: An ETL Project 🌎
 
 ### Overview
 I created a Python script that performs ETL (Extract, Transform, Load) operations to generate geographic coordinates from CSV files containing addresses as text strings. This project was inspired by publicly available police incident data from the City of San Jose.
