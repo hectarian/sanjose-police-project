@@ -1,5 +1,7 @@
 ## 👮‍♂️ Police Incident Geocoding and Visualization: An ETL Project 🌎
 
+<img src="https://github.com/hectarian/portfolio/blob/main/images/heatmap_SJ.png" width="850" alt="Heatmap-image">
+
 ### Overview
 I created a Python script that performs ETL (Extract, Transform, Load) operations to generate geographic coordinates from CSV files containing addresses as text strings. This project was inspired by publicly available police incident data from the City of San Jose.
 
