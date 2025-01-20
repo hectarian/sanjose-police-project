@@ -47,9 +47,11 @@ This project follows a simplified ETL framework:
   - *** Some errors are still present regarding coordinates being generated outside of the target city. A temporary fix that I did was I opened the CSV file into ArcGIS and batched removed the points outside of my target area.
 
 ### Results
-  - The processed data allows for the creation of heat maps showing police incident hot spots across the city of San Jose.
+  - The processed data allows for the creation of some cool maps such as the heat map or the choropleth map showing police incident hot spots across the city of San Jose.
   - These visualizations could highlight high-frequency areas, aiding in data-driven decisions for resource allocation.
-    
+<img src="https://github.com/hectarian/portfolio/blob/main/images/choropleth_map_SJ.png" width="750" alt="Heatmap-image">
+  * Here's another visual graphic that I created that represents the Total number of incident calls made to SJPD during Q4 of 2024 by San Jose Neighborhoods.
+
 ### Tools Used
   - Python: For scripting and data processing.
   - Nominatim API: For geocoding addresses.
